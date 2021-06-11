@@ -20,7 +20,7 @@ clear; echo -e $tit
   echo -e " \e[01;37m〘*3*〙\e[0m\e[01;04;33mINICIAR TESTADOR PADRÃO\e[0m\c"; echo -e "\e[02;03;37m Ir direto ao padrão\e[0m"
   echo -e " \e[00;31m══════════════\e[0m\e[01;37m︾\e[00;31m═══════════════\e[0m"
   echo -e " \e[01;37m『*4*』\e[0m\e[01;04;33mSOLICITAR PASS\e[0m\c"; echo -e "\e[02;03;37m  Use dados moveis nessa opção\e[0m"
-  echo -e " \e[01;37m『*0*』\e[0m\e[01;04;33mCAIR FORA DO SCRIPT\e[0m\c"; echo -e "\e[02;03;37m   Noob sofre\e[0m"
+  echo -e " \e[01;37m『*0*』\e[0m\e[01;04;33mCAIR FORA DO SCRIPT\e[0m\c"; echo -e "\e[02;03;37m   corre bb\e[0m"
   echo -e " \e[00;31m═══════════════════════════════\e[0m"
   
 veri=$(echo -e "\e[01;37m Opção: \e[0m")
@@ -153,7 +153,7 @@ body=$(echo $response | jq '.packprovision')
                           echo -e " \e[01;37m〘*2*〙\e[0m\e[01;04;33mREPETIR COM VERIFICAÇÃO\e[0m\c"; echo -e "\e[02;03;37m Tudo automatico\e[0m"
                           echo -e " \e[00;31m══════════════\e[0m\e[01;37m︾\e[00;31m═══════════════\e[0m"
                           echo -e " \e[01;37m『*3*』\e[0m\e[01;04;33mVOLTAR PARA O MENU\e[0m\c"; echo -e "\e[02;03;37m\e[0m"
-                          echo -e " \e[01;37m『*0*』\e[0m\e[01;04;33mCAIR FORA DO SCRIPT\e[0m\c"; echo -e "\e[02;03;37m     Noob sofre\e[0m"
+                          echo -e " \e[01;37m『*0*』\e[0m\e[01;04;33mCAIR FORA DO SCRIPT\e[0m\c"; echo -e "\e[02;03;37m     Corre bb\e[0m"
                           echo -e " \e[00;31m═══════════════════════════════\e[0m"
                
                           while :; do
@@ -224,12 +224,12 @@ body=$(echo $response | jq '.packprovision')
                            echo -e " \e[01;37m〘*2*〙\e[0m\e[01;04;33mINICIAR COM VERIFICAÇÃO\e[0m\c"; echo -e "\e[02;03;37m Tudo automatico\e[0m"
                            echo -e " \e[00;31m══════════════\e[0m\e[01;37m︾\e[00;31m═══════════════\e[0m"
                            echo -e " \e[01;37m『*3*』\e[0m\e[01;04;33mVOLTAR PARA O MENU\e[0m\c"; echo -e "\e[02;03;37m\e[0m"
-                           echo -e " \e[01;37m『*0*』\e[0m\e[01;04;33mCAIR FORA DO SCRIPT\e[0m\c"; echo -e "\e[02;03;37m     Noob sofre\e[0m"
+                           echo -e " \e[01;37m『*0*』\e[0m\e[01;04;33mCAIR FORA DO SCRIPT\e[0m\c"; echo -e "\e[02;03;37m     Corre bb\e[0m"
                            echo -e " \e[00;31m═══════════════════════════════\e[0m";;
                           2) break;;
                           3) break;;
                           0) exit;;
-                          *) echo -e "\e[01;37;41m CALMA BARBOLETA \e[0m"; sleep 1
+                          *) echo -e "\e[01;37;41m CALMA Amor \e[0m"; sleep 1
                          esac
                         done
                           case $opc2 in
@@ -344,7 +344,7 @@ body=$(echo $response | jq '.packprovision')
                  esac
            grepi5=$(echo $response | grep -c "7x1 elegibility")
                  case $grepi5 in
-                      1) echo -e "\e[01;32m SERVIDOR DANDO PAU! CORRE BERG\e[0m / \e[01;37mCONTAGEM: $i\e[0m"|pv -qL 25;;
+                      1) echo -e "\e[01;32m SERVIDOR Brochando ! AAAAH\e[0m / \e[01;37mCONTAGEM: $i\e[0m"|pv -qL 25;;
                       *)
                  esac
               done
@@ -355,7 +355,7 @@ body=$(echo $response | jq '.packprovision')
                           echo -e " \e[01;37m〘*2*〙\e[0m\e[01;04;33mDE NOVO COM VERIFICAÇÃO\e[0m\c"; echo -e "\e[02;03;37m Tudo automatico\e[0m"
                           echo -e " \e[00;31m══════════════\e[0m\e[01;37m︾\e[00;31m═══════════════\e[0m"
                           echo -e " \e[01;37m『*3*』\e[0m\e[01;04;33mVOLTAR PARA O MENU\e[0m\c"; echo -e "\e[02;03;37m\e[0m"
-                          echo -e " \e[01;37m『*0*』\e[0m\e[01;04;33mCAIR FORA DO SCRIPT\e[0m\c"; echo -e "\e[02;03;37m     Noob sofre\e[0m"
+                          echo -e " \e[01;37m『*0*』\e[0m\e[01;04;33mCAIR FORA DO SCRIPT\e[0m\c"; echo -e "\e[02;03;37m     SAIR FORA\e[0m"
                           echo -e " \e[00;31m═══════════════════════════════\e[0m"
 
                
@@ -409,7 +409,7 @@ body=$(echo $response | jq '.packprovision')
                  esac
            grepi5=$(echo $response | grep -c "7x1 elegibility")
                  case $grepi5 in
-                      1) echo -e "\e[01;32m SERVIDOR DANDO PAU! CORRE BERG\e[0m / \e[01;37mCONTAGEM: $i\e[0m"|pv -qL 25;;
+                      1) echo -e "\e[01;32m SERVIDOR BROCHANDO! AAAAAAH\e[0m / \e[01;37mCONTAGEM: $i\e[0m"|pv -qL 25;;
                       *)
                  esac
               done
@@ -420,12 +420,12 @@ body=$(echo $response | jq '.packprovision')
                            echo -e " \e[01;37m〘*2*〙\e[0m\e[01;04;33mINICIAR COM VERIFICAÇÃO\e[0m\c"; echo -e "\e[02;03;37m Tudo automatico\e[0m"
                            echo -e " \e[00;31m══════════════\e[0m\e[01;37m︾\e[00;31m═══════════════\e[0m"
                            echo -e " \e[01;37m『*3*』\e[0m\e[01;04;33mVOLTAR PARA O MENU\e[0m\c"; echo -e "\e[02;03;37m\e[0m"
-                           echo -e " \e[01;37m『*0*』\e[0m\e[01;04;33mCAIR FORA DO SCRIPT\e[0m\c"; echo -e "\e[02;03;37m     Noob sofre\e[0m"
+                           echo -e " \e[01;37m『*0*』\e[0m\e[01;04;33mCAIR FORA DO SCRIPT\e[0m\c"; echo -e "\e[02;03;37m     Sair fora\e[0m"
                            echo -e " \e[00;31m═══════════════════════════════\e[0m";;
                        2) break;;
                        3) break;;
                        0) exit;;
-                       *) echo -e "\e[01;37;41m CALMA BARBOLETA \e[0m"; sleep 1
+                       *) echo -e "\e[01;37;41m CALMA Amor \e[0m"; sleep 1
                    esac
                    done
                       case $opc2 in
@@ -488,7 +488,7 @@ body=$(echo $response | jq '.packprovision')
                  esac
            grepi5=$(echo $response | grep -c "7x1 elegibility")
                  case $grepi5 in
-                      1) echo -e "\e[01;32m SERVIDOR DANDO PAU! CORRE BERG\e[0m / \e[01;37mCONTAGEM: $i\e[0m"|pv -qL 25;;
+                      1) echo -e "\e[01;32m ERVIDOR BROCHANDO! AAAAAAH\e[0m / \e[01;37mCONTAGEM: $i\e[0m"|pv -qL 25;;
                       *)
                  esac
               done
@@ -498,7 +498,7 @@ body=$(echo $response | jq '.packprovision')
                        echo -e "  \e[01;37m〘*1*〙\e[0m\e[01;04;33mREPETIR TESTADOR PADRÃO\e[0m\c"; echo -e "\e[02;03;37m Apenas cole o numero\e[0m"
                        echo -e "  \e[00;31m══════════════\e[0m\e[01;37m︾\e[00;31m═══════════════\e[0m"
                        echo -e "  \e[01;37m『*2*』\e[0m\e[01;04;33mVOLTAR PARA O MENU\e[0m\c"; echo -e "\e[02;03;37m\e[0m"
-                       echo -e "  \e[01;37m『*0*』\e[0m\e[01;04;33mCAIR FORA DO SCRIPT\e[0m\c"; echo -e "\e[02;03;37m     Noob sofre\e[0m"
+                       echo -e "  \e[01;37m『*0*』\e[0m\e[01;04;33mCAIR FORA DO SCRIPT\e[0m\c"; echo -e "\e[02;03;37m     Calma bb\e[0m"
                        echo -e "  \e[00;31m═══════════════════════════════\e[0m"
                        veri=$(echo -e "\e[01;37m Opção: \e[0m")
                           read -n1 -p "$veri" opc2; echo
@@ -533,7 +533,7 @@ body=$(echo $response | jq '.packprovision')
               read -n1;;
               
     0) exit;;
-    *) echo -e "\e[01;37;41m CALMA BARBOLETA \e[0m"; sleep 1
+    *) echo -e "\e[01;37;41m CALMA amor \e[0m"; sleep 1
               
      esac # case MENU
     done # primeiro loop
